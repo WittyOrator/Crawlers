@@ -4,7 +4,7 @@ import requests
 from lxml import html
 
 def get_image_dir():
-    return './Photos/mm'
+    return './Photos/mmOnly'
 
 def get_main_page():
     return 'http://www.mmonly.cc/wmtp/wmxz/'
